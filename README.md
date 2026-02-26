@@ -1,4 +1,2 @@
 # KMP-tdlib
-A KMP wrapper for tdlib
-
-The project is under development. I'm trying multiple ways to share function in common source set. contribution are more then welcome.
+This is an example on embeding a c++ library in kotlin multiplatform. We will use [tdlib](https://github.com/tdlib/td) for our library.
